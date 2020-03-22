@@ -7,4 +7,7 @@ service: formspree
 formId: "your@email.com"
 ---
 
-This is contact page.
+Alamat Pesantren:
+JL. Jambu Ujung RT. 03 / 011 Kel. Jatimakmur
+Tel. / FAX :
+(021) 84970404 / 84999568 Pondok Gede – Bekasi
